@@ -7,7 +7,7 @@ This will be updated in the future to be cleaner and have more features.
 ---
 
 ```python
-import wxalerts
+from wxalerts import wxalerts
 
 # scan for a state
 wxalerts.start(state="OR")
