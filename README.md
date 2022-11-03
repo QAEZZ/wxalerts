@@ -6,7 +6,7 @@ This will be updated in the future to be cleaner and have more features.
 
 ---
 
-```
+```python
 import wxalerts
 
 # scan for a state
